@@ -9,7 +9,7 @@ I took the predictions from my first model and used it as a feature to the other
 
 In other words:   
 first stage:   
-y1=f(X)+error (best model)   
+y1=f(X)+error (best model = stator_yoke)   
 y2=h(x)+error   
 y3=g(x)+error   
 y4=j(x)+error   
@@ -22,11 +22,12 @@ y4=j(x + f(x))+error
 
 The final RMSE results on the test set are:   
  
- RMSE_pm =    
- RMSE_stator_yoke =    
- RMSE_stator_tooth =    
- RMSE_stator_winding =    
- adding up to  total RMSE
+ RMSE_pm = 1.011369259   
+ RMSE_stator_yoke = 0.192175924   
+ RMSE_stator_tooth = 0.36982214   
+ RMSE_stator_winding = 0.470236891
+   
+ adding up to 2.043604214 total RMSE
 
 A video explaining my solution can be found here:   
 youtube link
