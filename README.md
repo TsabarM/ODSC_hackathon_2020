@@ -26,6 +26,7 @@ The final RMSE results on the test set are:
  RMSE_stator_yoke =    
  RMSE_stator_tooth =    
  RMSE_stator_winding =    
+ adding up to  total RMSE
 
-a video for explaining my solution can be found here:   \
+A video explaining my solution can be found here:   
 youtube link
