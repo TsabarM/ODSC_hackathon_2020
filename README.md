@@ -3,7 +3,8 @@
 In this repository I present my solution for the ODSC 2020 hackathon https://odsc.com/hackathon/ 
 
 The final solution notebook can be found [here](https://github.com/TsabarM/ODSC_hackathon_2020/blob/final_submission/ODSC_Hackathon_notebook%20.ipynb).   
-The pairplot and the heatmap are available here as png files.
+The pairplot is available [here](https://github.com/TsabarM/ODSC_hackathon_2020/blob/master/pairplot.png).
+The correlation heatmap is available [here](https://github.com/TsabarM/ODSC_hackathon_2020/blob/master/correlation%20heatmap.png).
 
 In this challenge the competitors need propose a model that predicts the temperature of 4 components of an electric car motor. 
 There is a high correlation between the temperatures of the 4 components. 
